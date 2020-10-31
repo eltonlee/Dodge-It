@@ -1,2 +1,2 @@
 # Python-Game
-My first python game
+My first python game. Dodge the blue squares.
